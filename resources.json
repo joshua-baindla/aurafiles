@@ -1,22 +1,12 @@
 [
   {
     "title": "Python Notes & Scripts",
-    "url": "https://drive.google.com/drive/folders/YOUR_PYTHON_FOLDER_ID",
+    "url": "https://drive.google.com/drive/folders/1INPZXe0IDCqyErEZF_kg1E6PiMy36pug?usp=drive_link",
     "category": "Programming"
   },
   {
-    "title": "Cybersecurity Lab Material",
-    "url": "https://drive.google.com/drive/folders/YOUR_CYBER_FOLDER_ID",
-    "category": "Security"
-  },
-  {
-    "title": "Reference Books",
-    "url": "https://drive.google.com/drive/folders/YOUR_BOOKS_FOLDER_ID",
-    "category": "Library"
-  },
-  {
-    "title": "C Programming & DSA",
-    "url": "https://drive.google.com/drive/folders/YOUR_C_FOLDER_ID",
-    "category": "Programming"
+    "title": "Netwoking Book of Kurose",
+    "url": "https://drive.google.com/file/d/1v73m0Ub_z8OVCEmVXrpjhWjSsMlaXhDs/view?usp=sharing",
+    "category": "Networking"
   }
 ]
