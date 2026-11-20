@@ -1,0 +1,82 @@
+[
+  {
+    "id": "note-1795179077371",
+    "unit": "Viva",
+    "question": "What is POINTER?",
+    "answer": "A pointer in C is a derived data type variable whose value is the memory address of another variable",
+    "starred": false,
+    "createdAt": 1795179077371
+  },
+  {
+    "id": "note-1795179000276",
+    "unit": "Viva",
+    "question": "STRUCTURE OF C LANGUAGE (PREPARE HEADINGS ONLY )",
+    "answer": "Documentation Section\n\nLink Section\n\nDefinition Section\n\nGlobal Declaration Section\n\nmain() Function Section (Declaration part & Executable part)\n\nSubprogram Section",
+    "starred": false,
+    "createdAt": 1795179000276
+  },
+  {
+    "id": "note-1795178899491",
+    "unit": "Viva",
+    "question": "WHAT ARE THE USER DEFINED DATA TYPES",
+    "answer": "User-defined data types in C let programmers create custom types—mainly struct, union, and enum",
+    "starred": false,
+    "createdAt": 1795178899491
+  },
+  {
+    "id": "note-1795178797283",
+    "unit": "Viva",
+    "question": "WHAT ARE THE TYPES OF DATA TYPES?",
+    "answer": "In C, data types are mainly divided into basic types (int, char, float, double), derived types (arrays, pointers, functions), and user-defined types (struct, union, enum), plus void for no value.",
+    "starred": false,
+    "createdAt": 1795178797283
+  },
+  {
+    "id": "note-1795178349602",
+    "unit": "Viva",
+    "question": "WHAT IS FUNCTION",
+    "answer": "A function is a reusable block of code that performs a specific task, takes optional inputs (arguments), and optionally returns a value.",
+    "starred": false,
+    "createdAt": 1795178349602
+  },
+  {
+    "id": "note-1795178221859",
+    "unit": "Viva",
+    "question": "WHAT IS AN ARRAY",
+    "answer": "An array is a fixed-size collection of elements of the same data type stored in continuous memory locations, accessed by index starting from 0.",
+    "starred": false,
+    "createdAt": 1795178221859
+  },
+  {
+    "id": "note-1795178138747",
+    "unit": "Viva",
+    "question": "DEFINE STRING",
+    "answer": "A string is a sequence of characters stored in an array and ended with a null character ('\\0').",
+    "starred": false,
+    "createdAt": 1795178138747
+  },
+  {
+    "id": "note-1795177776394",
+    "unit": "Viva",
+    "question": "DEFINE OPERATOR",
+    "answer": "An operator is a predefined symbol in C that instructs the compiler to perform a specific operation on operands to produce a result.",
+    "starred": false,
+    "createdAt": 1795177776394
+  },
+  {
+    "id": "note-1795177709858",
+    "unit": "Viva",
+    "question": "What is keyword.",
+    "answer": "A keyword is a predefined, reserved word in the C language with a fixed syntax and meaning that cannot be redefined or used as an identifier by the programmer.",
+    "starred": false,
+    "createdAt": 1795177709858
+  },
+  {
+    "id": "note-1795177605786",
+    "unit": "Viva",
+    "question": "What is a variable.",
+    "answer": "A variable is an identifier associated with a specific memory address that holds a value of a defined data type, which can be modified while the program runs",
+    "starred": false,
+    "createdAt": 1795177605786
+  }
+]
